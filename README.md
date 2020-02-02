@@ -13,3 +13,8 @@
 ### use Anchor Boxes
 
 ## Yolo V3
+...
+
+## Ref
+* https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
+* https://medium.com/@venkatakrishna.jonnalagadda/object-detection-yolo-v1-v2-v3-c3d5eca2312a
