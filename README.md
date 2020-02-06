@@ -1,5 +1,5 @@
 # Yolo-FaceDetection
-## This repo still in preprocessing and waiting for any helping comments.
+## This repo still in preprocessing.
 ## WIDERFace Dataset http://shuoyang1213.me/WIDERFACE/
 ## YOLO V1 
 ### it divides the input image(224*224) into 9x9 grid cells. Each cell is responsible for detection an object and it's boundary boxes
